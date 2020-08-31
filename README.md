@@ -1,1 +1,2 @@
-"# MP-Jupyter-Notebook" 
+# MP-Jupyter-Notebook 
+Jupyter Notebook for Minor Project Sem 7.
